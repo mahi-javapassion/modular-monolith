@@ -1,0 +1,5 @@
+com\mahi\javapassion\coaching\common\exception\ResourceNotFoundException.class
+com\mahi\javapassion\coaching\common\exception\UnprocessableEntityException.class
+com\mahi\javapassion\coaching\common\domain\AggregateRoot.class
+com\mahi\javapassion\coaching\common\domain\ValueObject.class
+com\mahi\javapassion\coaching\common\exception\RelatedResourceIsNotResolvedException.class

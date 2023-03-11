@@ -1,0 +1,17 @@
+com\mahi\javapassion\coaching\users\registration\UserRegistrationCommand$UserRegistrationCommandBuilder.class
+com\mahi\javapassion\coaching\users\UserRepository.class
+com\mahi\javapassion\coaching\users\UserDTO.class
+com\mahi\javapassion\coaching\users\login\SignInCommand.class
+com\mahi\javapassion\coaching\users\PasswordConstraintValidator.class
+com\mahi\javapassion\coaching\users\Role.class
+com\mahi\javapassion\coaching\users\registration\UserRegistrationCommand.class
+com\mahi\javapassion\coaching\users\security\JwtTokenProvider.class
+com\mahi\javapassion\coaching\users\UserDTO$UserDTOBuilder.class
+com\mahi\javapassion\coaching\users\registration\UserRegistrationCommandHandler.class
+com\mahi\javapassion\coaching\users\ValidPassword.class
+com\mahi\javapassion\coaching\users\Role$1.class
+com\mahi\javapassion\coaching\users\login\SignInCommand$SignInCommandBuilder.class
+com\mahi\javapassion\coaching\users\login\SignInCommandHandler.class
+com\mahi\javapassion\coaching\users\RoleDTO.class
+com\mahi\javapassion\coaching\users\security\MyUserDetails.class
+com\mahi\javapassion\coaching\users\User.class

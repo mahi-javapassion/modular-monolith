@@ -1,0 +1,10 @@
+com\mahi\javapassion\coaching\users\security\UserController.class
+com\mahi\javapassion\coaching\users\security\SignInResponse.class
+com\mahi\javapassion\coaching\users\security\SignInResponse$SignInResponseBuilder.class
+com\mahi\javapassion\coaching\users\security\SignUpRequest.class
+com\mahi\javapassion\coaching\users\security\SignInRequest.class
+com\mahi\javapassion\coaching\users\security\SignInRequest$SignInRequestBuilder.class
+com\mahi\javapassion\coaching\users\security\JwtTokenFilter.class
+com\mahi\javapassion\coaching\users\security\SignUpRequest$SignUpRequestBuilder.class
+com\mahi\javapassion\coaching\users\security\JwtTokenFilterConfigurer.class
+com\mahi\javapassion\coaching\users\security\WebSecurityConfig.class
